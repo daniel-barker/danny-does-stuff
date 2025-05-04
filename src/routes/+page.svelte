@@ -3,8 +3,7 @@
 >
 	<section class="grid w-full max-w-4xl grid-cols-1 gap-8 sm:grid-cols-2">
 		<!-- Dog Care -->
-		<a
-			href="/dog-care"
+		<div
 			class="block rounded-2xl bg-white p-6 text-center shadow ring-blue-400 transition hover:ring-2"
 		>
 			<div class="mb-2 text-4xl">🐾</div>
@@ -15,11 +14,10 @@
 				<li>Meds/admin</li>
 				<li>Hikes</li>
 			</ul>
-		</a>
+		</div>
 
 		<!-- Car Detailing -->
-		<a
-			href="/car-detailing"
+		<div
 			class="block rounded-2xl bg-white p-6 text-center shadow ring-blue-400 transition hover:ring-2"
 		>
 			<div class="mb-2 text-4xl">🚗</div>
@@ -30,11 +28,10 @@
 				<li>Pet hair removal</li>
 				<li>Tire shine / wax add-on</li>
 			</ul>
-		</a>
+		</div>
 
 		<!-- House Cleaning -->
-		<a
-			href="/house-cleaning"
+		<div
 			class="block rounded-2xl bg-white p-6 text-center shadow ring-blue-400 transition hover:ring-2"
 		>
 			<div class="mb-2 text-4xl">🧹</div>
@@ -45,11 +42,10 @@
 				<li>Kitchens / baths</li>
 				<li>Airbnb turns</li>
 			</ul>
-		</a>
+		</div>
 
 		<!-- Meal Prepping -->
-		<a
-			href="/meal-prepping"
+		<div
 			class="block rounded-2xl bg-white p-6 text-center shadow ring-blue-400 transition hover:ring-2"
 		>
 			<div class="mb-2 text-4xl">🍽️</div>
@@ -60,6 +56,6 @@
 				<li>Dietary preferences</li>
 				<li>Storage-ready meals</li>
 			</ul>
-		</a>
+		</div>
 	</section>
 </div>
